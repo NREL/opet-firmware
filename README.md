@@ -1619,4 +1619,6 @@ This document contains further information with regards to the microcontroller (
 - MCU programming / debugging
 If you just wish to load the stock firmware package, proceed to the MCU programming section below.
 
-## Software and Hardware Requirements
+# Disclaimer
+
+DISCLAIMER: NREL/ALLIANCE FOR SUSTAINABLE ENERGY, LLC/DOE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND MAKES NO WARRANTY AS TO THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY INFORMATION PROVIDED HEREIN. USE OF THIS PACKAGE IS AT THE USER’S OWN RISK.
